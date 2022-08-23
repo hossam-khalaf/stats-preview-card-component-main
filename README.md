@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://github.com/hossam-khalaf/stats-preview-card-component-main/blob/master/images/screendesktop.png)
+![Mobile](https://github.com/hossam-khalaf/stats-preview-card-component-main/blob/master/images/mobilescreen.png)
 
 ### Links
 
