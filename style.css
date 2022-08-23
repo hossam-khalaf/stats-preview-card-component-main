@@ -101,11 +101,15 @@ section div:not(:last-child) {
 		order: 1;
 		text-align: left;
 	}
+	.desc {
+		margin-right: 2rem;
+	}
 
 	.stats {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		margin-top: 1.4rem;
+		padding-right: 2.9rem;
 	}
 }
